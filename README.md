@@ -1,6 +1,6 @@
 # MachineLearning-BasicProjects
 
-This contains many basic projects of the Topic from Supervised and Unsupervised learning. 
+This contains many basic projects of the Topic from Supervised learning part of Machine Leaning Algorithms. 
 It deals with the basic how to import a ceratin a library and to further fir the data and predict the best possible output.
 
 # Important Guidelines
