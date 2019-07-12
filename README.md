@@ -24,4 +24,4 @@ In every project we follow certain steps:
 
 5.Predict the output from the best estimated model using the testing data.
 
-5.Check the accuracy score of the predicted model.
+6.Check the accuracy score of the predicted model.
